@@ -1,0 +1,13 @@
+.stepsitems img{
+    height:25px;
+    object-fit:contain;
+    width:1.25rem;
+    vertical-align: middle;
+}
+.stepsitems p{
+    font-size: 20px;
+    margin-bottom: 20px;
+    line-height: 1;
+    font-family: Cambria;
+    font-weight:700;
+}

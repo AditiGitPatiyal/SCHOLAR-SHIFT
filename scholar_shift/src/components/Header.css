@@ -1,0 +1,15 @@
+.header{
+    background-color: #5939ff;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#fff !important;
+}
+.navbar-light .navbar-nav .nav-link.active {
+    border-bottom: 0.1em solid #fff;
+}
+.navbar-brand{
+    width:120px;
+}
+.navbar-brand img{
+    width:100%;
+}

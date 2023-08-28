@@ -1,0 +1,111 @@
+.section{
+    margin-bottom:60px !important;
+}
+.banner{
+    --tw-bg-opacity:1;
+    background-color: rgb(89 57 255 / var(--tw-bg-opacity));
+}
+.banner-image{
+    padding-top:150px;
+}
+.banner-image img{
+    width:100%;
+}
+.text-lightgray{
+    --tw-text-opacity: 1;
+    color: rgb(203 203 203 / var(--tw-text-opacity));
+}
+.text-welcome{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-weight:600;
+}
+.banner-text h2{
+    font-size: 55px;
+    line-height: .7;
+}
+.banner-text .text-para{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+.banner-search{
+    margin:45px 0;
+    width:90%;
+}
+.banner-search input{
+    padding: 10px 15px;
+    border-radius: 12px;
+    font-size: 16px;
+    border: 1.5px solid #c0c0c0;
+    width: -webkit-fill-available;
+}
+.banner-search button{
+    font-size: 20px;
+    border-radius: 12px;
+    letter-spacing: 1px;
+    font-weight:700;
+    background-color:#000;
+    color:white;
+}
+.banner-end{
+    margin-bottom:50px;
+}
+.banner-end p{
+    font-size:17px;
+}
+.banner-end ul li{
+    margin-left:20px;
+}
+.jointhexp-text h4{
+    font-size:38px;
+}
+.jointhexp-text p{
+    font-size:20px;
+}
+.easy_step_text h4{
+    font-size: 38px;
+    margin-bottom: 70px;
+    color: #5a3aff;
+    line-height: 2.25rem;
+    font-weight: 700;
+}
+.ng-star-inserted{
+    font-size:16px;
+    margin-bottom:1.5rem;
+}
+.wedomain{
+    background-color: #f0f0f0;
+    padding-top:6rem;
+}
+.wedomain_text img{
+    width:100%;
+}
+.wedomain_text h4{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    margin-bottom: 2.5rem;
+    color: #5a3aff;
+}
+.wedomain_text p{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+.wedomain_text a{
+    font-size: 26px;
+    padding: 20px 40px;
+    background-color:#5a3aff;
+    width: fit-content;
+    margin-top:6rem !important;
+    margin-bottom:6rem;
+    text-decoration: none;
+}
+.reviews a{
+    font-size: 26px;
+    padding: 20px 40px;
+    background-color:#f0602d;
+    width: fit-content;
+    margin-top:6rem !important;
+    margin-bottom:6rem;
+    text-decoration:none;
+}
+

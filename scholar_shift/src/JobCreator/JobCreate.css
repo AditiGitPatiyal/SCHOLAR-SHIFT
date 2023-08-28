@@ -1,0 +1,15 @@
+.login-box{
+    width:30%;
+    background-color:#5a3aff;
+}
+.login-box h2{
+    color:#f0602d;
+}
+.login-box .link{
+    text-decoration: none;
+    color:white;
+}
+.login-box button{
+    color:white;
+    background-color:#f0602d;
+}

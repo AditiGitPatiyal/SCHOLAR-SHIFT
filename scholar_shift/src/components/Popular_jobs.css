@@ -1,0 +1,16 @@
+.popular-image{
+    padding: 3px 6px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px -3px #000;
+    width: fit-content;
+    text-align: center;;
+}
+.popular-image img{
+    width:35px ;
+    height:35px;
+}
+.popular-box p{
+    font-size:13px !important;
+    text-align:center;
+    color:white;
+}

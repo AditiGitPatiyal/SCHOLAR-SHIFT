@@ -1,0 +1,26 @@
+.infocounters{
+    max-width:200px;
+}
+.infocupimg{
+    border-radius:9999px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(240 96 45 / var(--tw-bg-opacity));
+    height:200px;
+    overflow:hidden;
+}
+.infocupimg img{
+    /* align-self: end; */
+    max-width:90%;
+    height:auto;
+}
+.infocounters strong{
+    font-size:40px;
+    margin-top:40px;
+}
+.infocounters p{
+    font-size: 18px;
+    line-height: 1.3;
+    margin-top: 25px;
+    color:#f0602d;
+    text-transform: capitalize;
+}
